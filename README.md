@@ -312,17 +312,3 @@ AlipayClient alipayClient = new DefaultAlipayClient(
 私人网盘：https://gitee.com/52itstyle/spring-boot-CloudDisk
 
 
-作者： 小柒2012
-
-欢迎关注： https://blog.52itstyle.vip
-
-## 云服务推荐
-
-[![输入图片说明](https://images.gitee.com/uploads/images/2019/0718/130816_45e06f95_87650.png "屏幕截图.png")](https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=kutpfdo3)
-
-## 小程序推荐
-
-这可能是东半球最好的妹子图小程序，点她、点她、点她！！！
-
-![输入图片说明](https://images.gitee.com/uploads/images/2020/0224/192652_8e043ef1_87650.jpeg "meizi.jpg")
-
