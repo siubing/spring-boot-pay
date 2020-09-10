@@ -29,13 +29,6 @@ Spring-Boot2.0 + Nacos注册中心版：https://gitee.com/52itstyle/spring-boot-
 那就部署多个服务，Dubbo 默认负载均衡策略是轮询，你也可以配置成其他策略，比如根据机器配置设置加权之类的。Zookeeper 也可以啊，保证 2N+1 台就是了。
 
 
-## 欢迎关注
-
-一个有温度的微信公众号，期待与你共同进步，分享美文，分享各种Java学习资源
-
-![输入图片说明](https://images.gitee.com/uploads/images/2018/0809/181043_76e4d5b8_87650.png "1234.png")
-
-
 以下所有支付Demo，测试通过，真实有效。
 
 ### 支付宝
